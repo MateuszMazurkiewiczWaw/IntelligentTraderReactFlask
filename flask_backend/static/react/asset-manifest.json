@@ -1,0 +1,16 @@
+{
+  "main.css": "/static/react/css/main.b357ed75.chunk.css",
+  "main.js": "/static/react/js/main.e58b5e13.chunk.js",
+  "main.js.map": "/static/react/js/main.e58b5e13.chunk.js.map",
+  "runtime~main.js": "/static/react/js/runtime~main.c2b7f5bb.js",
+  "runtime~main.js.map": "/static/react/js/runtime~main.c2b7f5bb.js.map",
+  "css/2.c6250e3a.chunk.css": "/static/react/css/2.c6250e3a.chunk.css",
+  "js/2.3aefdf83.chunk.js": "/static/react/js/2.3aefdf83.chunk.js",
+  "js/2.3aefdf83.chunk.js.map": "/static/react/js/2.3aefdf83.chunk.js.map",
+  "../../templates/index.html": "/static/react/../../templates/index.html",
+  "css/2.c6250e3a.chunk.css.map": "/static/react/css/2.c6250e3a.chunk.css.map",
+  "css/main.b357ed75.chunk.css.map": "/static/react/css/main.b357ed75.chunk.css.map",
+  "media/app.scss": "/static/react/media/logo_light.8cb59958.svg",
+  "precache-manifest.aa4d957a2d96fea01e3985bb7e68db20.js": "/static/react/precache-manifest.aa4d957a2d96fea01e3985bb7e68db20.js",
+  "service-worker.js": "/static/react/service-worker.js"
+}
